@@ -1,0 +1,6 @@
+{
+    "prettier.tabWidth": 4,
+    "javascript.validate.enable": false,
+    "kite.enableOptionalCompletionsTriggers": false,
+    "vsintellicode.features.apiExamplests": "default"
+}
